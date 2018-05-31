@@ -2,4 +2,6 @@ Dit is de eerste file, gemaakt om te experimenteren met GIT
 
 Nu een regel toegevoegd
 
+Nu in Git deze regel toegevoegd
+
 
